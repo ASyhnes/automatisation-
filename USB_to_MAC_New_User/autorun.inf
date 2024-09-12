@@ -1,0 +1,4 @@
+[autorun]
+open=lancer_script.bat
+icon=myicon.ico
+action=Exécuter le script d'authentification
